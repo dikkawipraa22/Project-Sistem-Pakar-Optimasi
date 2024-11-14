@@ -1,0 +1,28 @@
+rerata_durasi_akses_materi,durasi_berlatih,nilai,kelulusan,kepercayaan_pakar
+kecil,kecil,kecil,tidak lulus,100
+kecil,kecil,sedang,tidak lulus,100
+kecil,kecil,besar,tidak lulus,95
+kecil,sedang,kecil,tidak lulus,100
+kecil,sedang,sedang,tidak lulus,95
+kecil,sedang,besar,tidak lulus,85
+kecil,besar,kecil,tidak lulus,95
+kecil,besar,sedang,tidak lulus,90
+kecil,besar,besar,lulus,80
+sedang,kecil,kecil,tidak lulus,100
+sedang,kecil,sedang,tidak lulus,90
+sedang,kecil,besar,tidak lulus,80
+sedang,sedang,kecil,tidak lulus,90
+sedang,sedang,sedang,lulus,75
+sedang,sedang,besar,lulus,85
+sedang,besar,kecil,tidak lulus,75
+sedang,besar,sedang,lulus,80
+sedang,besar,besar,lulus,90
+besar,kecil,kecil,tidak lulus,95
+besar,kecil,sedang,tidak lulus,85
+besar,kecil,besar,tidak lulus,75
+besar,sedang,kecil,lulus,70
+besar,sedang,sedang,lulus,85
+besar,sedang,besar,lulus,90
+besar,besar,kecil,lulus,75
+besar,besar,sedang,lulus,90
+besar,besar,besar,lulus,100
